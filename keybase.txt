@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/spindles
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://spindles.dev
+  * I am spindles (https://keybase.io/spindles) on keybase.
+  * I have a public key ASC6NdwG1tw7PUUxo7cdGYeG-9EMY1CMvH_ihMZo2eBF_Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ba35dc06d6dc3b3d4531a3b71d198786fbd10c63508cbc7fe284c668d9e045fd0a",
+      "host": "keybase.io",
+      "kid": "0120ba35dc06d6dc3b3d4531a3b71d198786fbd10c63508cbc7fe284c668d9e045fd0a",
+      "uid": "2be898431a7b8bd86768a9a36b059019",
+      "username": "spindles"
+    },
+    "merkle_root": {
+      "ctime": 1626802981,
+      "hash": "3917e2be9fdfd9b02ec34865999684c3f9388cdb8ef97a41f6c88ae52bd16c05d6d336fc5d2e2ad23ae1bf3cb7d5550d97499822941b2920bf4d0d1c494c6128",
+      "hash_meta": "5581252f11c8b0afddd5d9150dfed633da44fea0610645e0a2c267b35b5e8610",
+      "seqno": 20412599
+    },
+    "service": {
+      "entropy": "vr94y997YGglBXRHWyeVa/Qh",
+      "hostname": "spindles.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.7.0"
+  },
+  "ctime": 1626803025,
+  "expire_in": 504576000,
+  "prev": "46e04ecab2eefb3705dd70ddb6d5d0df04e74f5e282c8b5387df8d2ba717e841",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgujXcBtbcOz1FMaO3HRmHhvvRDGNQjLx/4oTGaNngRf0Kp3BheWxvYWTESpcCCsQgRuBOyrLu+zcF3XDdttXQ3wTnT14oLItTh9+NK6cX6EHEILYXO0o0+e42uKOhCCR6QCLdstCZwX8i2T9gEfztaU1eAgHCo3NpZ8RA7lfw43gnY865x4SJq4IRokCYRzM8BZprIssRz6vxAJPaDiKK82biKywAnxSrBdoVinBD1tUxlUSE1QKj1aGICahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIVcuJKY2y8LbeZ0mkgh8FIe2IcxV1MupZPzDZiWcpdxo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/spindles
+
+==================================================================
